@@ -5,6 +5,8 @@ The Trace/USA Today provided the data in CSV format but it did not include the g
 
 The `license_type` field was used to join license description data from <https://www.atf.gov/resource-center/fact-sheet/fact-sheet-federal-firearms-and-explosives-licenses-types>.
 
+![gun dealer violations](violations.png)
+
 ```r
 library(sf)
 library(hrbragg) # github.com/hrbrmstr/hrbragg
